@@ -9,8 +9,8 @@
 ║     ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝                            ║
 ║                                                                              ║
 ║     IRON MAN JARVIS — ULTIMATE AI ASSISTANT v4.0                            ║
-║     For: MOHIT SHARMA SIR 👑                                                 ║
-║     Lines: 3000+ | Modules: ALL IN ONE                                       ║
+║     For: #YOUR_NAME SIR 👑                                                 ║
+║     Lines: 7000+ | Modules: ALL IN ONE                                       ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
@@ -84,7 +84,7 @@ CLIPBOARD_AVAILABLE = pyperclip is not None
 #                     CONFIGURATION
 # ═══════════════════════════════════════════════════════════════
 
-OWNER_NAME      = "MOHIT SIR 👑"  #your name 
+OWNER_NAME      = " #YOUR_NAME SIR 👑"  #your name 
 ASSISTANT_NAME  = "JARVIS"
 VERSION         = "4.0 Ultimate"
 API_KEY         = os.getenv("removed cloud AI", "")
@@ -117,7 +117,7 @@ JARVIS_BANNER = r"""
 ██   ██║██╔══██║██╔══██╗╚██╗ ██╔╝██║╚════██║
 ╚█████╔╝██║  ██║██║  ██║ ╚████╔╝ ██║███████║
  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝
-   IRON MAN AI — ULTIMATE v4.0 — FOR MOHIT SHARMA SIR 👑
+   IRON MAN AI — ULTIMATE v4.0 — FOR #YOUR_NAME SIR 👑
 """
 
 # ═══════════════════════════════════════════════════════════════
